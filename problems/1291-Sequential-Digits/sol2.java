@@ -4,7 +4,7 @@
 // Language   : Java
 // Solution   : #2
 // Runtime    : 0 ms (Beats 100%)
-// Memory     : 41.9 MB (Beats 98%)
+// Memory     : 42.2 MB (Beats 67%)
 // Link       : https://leetcode.com/problems/sequential-digits/
 // ==========================================================
 
