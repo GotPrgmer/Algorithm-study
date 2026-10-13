@@ -1,0 +1,46 @@
+{
+  "v": 1,
+  "updatedAt": 1791854924862,
+  "devices": {
+    "9b5e78f4-beb0-4c7d-917c-521a689b8ab9": {
+      "lastSeen": 1791854924563
+    }
+  },
+  "problems": {
+    "1291": {
+      "attempts": 3,
+      "bestMemory": "42.2 MB (Beats 67%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-13",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-13",
+      "folderName": "1291-Sequential-Digits",
+      "language": "Java",
+      "number": 1291,
+      "slug": "sequential-digits",
+      "solutionCount": 2,
+      "tags": [
+        "Enumeration"
+      ],
+      "title": "Sequential Digits",
+      "at": 1791854924563
+    }
+  },
+  "achievements": {
+    "first_blood": 1791854701025
+  },
+  "sheets": {},
+  "days": [
+    "2026-10-13"
+  ],
+  "bests": {
+    "longestStreak": 1,
+    "pushes": 4
+  },
+  "identity": {
+    "installId": "64e530f1-ff56-47a6-bfff-c343f88353f7",
+    "at": 1791853124542,
+    "name": null,
+    "nameAt": 0
+  }
+}
