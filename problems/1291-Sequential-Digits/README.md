@@ -15,7 +15,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="panel-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="panel-light.svg">
-  <img alt="Topics: Enumeration — best runtime 0 ms (Beats 100%), best memory 41.9 MB (Beats 98%)" src="panel-dark.svg">
+  <img alt="Topics: Enumeration — best runtime 0 ms (Beats 100%), best memory 42.2 MB (Beats 67%)" src="panel-dark.svg">
 </picture>
 
 </div>
@@ -24,9 +24,9 @@
 
 | | |
 |:--|:--|
-| **Attempts** | 2 before accepted |
-| **Time to solve** | 9 min |
-| **Verdicts** | ✅ Accepted → ✅ Accepted |
+| **Attempts** | 3 before accepted |
+| **Time to solve** | 11 min |
+| **Verdicts** | ✅ Accepted → ✅ Accepted → ✅ Accepted |
 
 ---
 
