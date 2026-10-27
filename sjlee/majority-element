@@ -1,0 +1,15 @@
+class Solution {
+    fun majorityElement(nums: IntArray): Int {
+        val majority = ceil(nums.size.toDouble() / 2).toInt()
+        val elementCnt = mutableMapOf<Int, Int>()
+        for(num in nums){
+            if(elementCnt[num] == null){
+                elementCnt[num] = 1
+            }else{
+                elementCnt[num] = elementCnt[num]!! + 1
+            }
+            if(elementCnt[num]!! >= majority) return num
+        }
+        return -1 //fallback
+    }
+}
